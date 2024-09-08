@@ -1,0 +1,16 @@
+{
+    "token": false,
+    "prefix": "!",
+    "logs": true,
+    "copy_settings": {
+        "Kategoriler": true,
+        "Kanallar": true,
+        "Roller": true,
+        "Izinler": true,
+        "Emojiler": true,
+        "categories": true,
+        "channels": true,
+        "roles": true,
+        "emojis": true
+    }
+}
