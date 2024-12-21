@@ -52,7 +52,7 @@ async def clone_server():
     print(" ")
     guild_to = client.get_guild(int(GUILD))
     
-    # Edit the server name and icon
+    
     await Cloner.guild_create(guild_to, guild_from)
     
     await Cloner.channels_delete(guild_to)
